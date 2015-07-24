@@ -1,0 +1,1 @@
+java -jar dist/MPC_Server.jar
